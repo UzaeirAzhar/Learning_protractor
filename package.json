@@ -4,8 +4,7 @@
   "description": "This is a tutorial for learning Protractor",
   "main": "index.js",
   "dependencies": {
-    "protractor": "^7.0.0",
-    "jasmine": "^3.5.0"
+    "protractor": "^7.0.0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
