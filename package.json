@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "protractor": "^7.0.0",
-    "jasmin": "^0.0.2"
+    "jasmine": "^3.5.0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,5 +14,8 @@
     "Protractor"
   ],
   "author": "Uzair Khan",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^3.6.1"
+  }
 }
