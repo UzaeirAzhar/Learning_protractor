@@ -1,0 +1,18 @@
+{
+  "name": "protractorcode",
+  "version": "1.0.0",
+  "description": "This is a tutorial for learning Protractor",
+  "main": "index.js",
+  "dependencies": {
+    "protractor": "^7.0.0",
+    "jasmin": "^0.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Protractor"
+  ],
+  "author": "Uzair Khan",
+  "license": "ISC"
+}
